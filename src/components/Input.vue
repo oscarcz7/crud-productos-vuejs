@@ -40,6 +40,8 @@
         <label for="floatingInput">Precio</label>
         <input
           type="number"
+          min="0"
+          step=".01"
           class="form-control"
           placeholder="Ingrese precio"
           v-model.number="producto.precio"
