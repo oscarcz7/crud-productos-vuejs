@@ -1,5 +1,10 @@
 # CRUD PRODUCTS
 
+### Netlify Deployment
+```
+https://trusting-cray-a0377a.netlify.app
+```
+
 ## Project setup
 ```
 npm install
@@ -13,11 +18,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Netlify Deployment
-```
-https://trusting-cray-a0377a.netlify.app
 ```
 
 ### Customize configuration
