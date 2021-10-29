@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### Netlify Deployment
+```
+https://trusting-cray-a0377a.netlify.app
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
